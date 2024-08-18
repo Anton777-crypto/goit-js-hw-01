@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "../engineer-MI"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "goit-js-hw-01"
+  }
+}
